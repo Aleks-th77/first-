@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+аа<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Тренировка</title>
 </head>
-  <style>    
+  <style>    привет вот как то так  😁 но получилась😊👍
        h1  {text-align: center;
           background-image: linear-gradient(to right ,#553c9a, #ee4b2b, #00c2cb, #ff7f50, #553c9a);
          background-size: 200%;
-background-position: -200%;
-          animation: animated-gradient 5s infinite alternate-reverse
 
